@@ -1,0 +1,6 @@
+
+]
+java:S1220""Move this file to a named package.8Ì­¨Íò1J$a853a6f7-53b0-46b9-9595-d80f23513518
+
+java:S1854"7Remove this useless assignment to local variable "max".(å¼Ÿâúÿÿÿÿ8Õ­¨Íò1J$0163c90c-4e92-4989-8aeb-43ef7d6c1a81
+m	java:S106"+Replace this use of System.out by a logger.(µØ¢—8Ú­¨Íò1J$1d5a7f00-9a51-4084-b081-73e7674a44b9

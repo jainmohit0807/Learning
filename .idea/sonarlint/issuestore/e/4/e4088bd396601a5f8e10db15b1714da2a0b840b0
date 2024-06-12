@@ -1,0 +1,15 @@
+
+r
+java:S1066/"/Merge this if statement with the enclosing one.(—¬œ8Íñ»çì1J$8315e263-06ef-4df9-95a4-66bb849c69f2
+V
+java:S1220""Move this file to a named package.J$bbc9bbef-3dc0-49c1-a93d-a537b367bff0
+k	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿJ$f1d7aaf2-8eb6-410b-8b4f-f87d3d34c52f
+m	java:S106"+Replace this use of System.out by a logger.(ÒÌƒ†8ŠÜ‹»ì1J$6633f204-1f82-4425-9608-dd524bd96db9
+š
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(éœÌúÿÿÿÿ8Éô»çì1J$329e9d1a-fa92-4455-80ee-48b80603c9fb
+m
+java:S1481"*Remove this unused "close" local variable.(Î–‘8Ğô»çì1J$33e67165-2c03-4435-a4da-6d8576a862ac
+r	java:S1064"+Replace this use of System.out by a logger.(±Ö¡øÿÿÿÿ8Ôô»çì1J$45d26a4f-564f-4184-8a93-189f16b778db
+r	java:S1065"+Replace this use of System.out by a logger.(çƒ°‘øÿÿÿÿ8Ôô»çì1J$a1770eea-3ca2-43e5-b2af-952cf030be64
+r	java:S1066"+Replace this use of System.out by a logger.(§¼îˆÿÿÿÿÿ8Õô»çì1J$68dfcbf5-6d80-4b16-9da9-ac27c8f5f4c3
